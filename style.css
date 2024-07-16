@@ -1,0 +1,23 @@
+h1{ 
+	color: #FFFFFF ;
+}
+body{background-color: #FFCBE8 ;
+
+}
+
+h2{background-color:#FF6C8E }
+
+h1{
+	font-family: "Merriweather", serif;
+}
+
+
+
+div.ligne-images{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+img{
+  max-width: 130px;
+}
